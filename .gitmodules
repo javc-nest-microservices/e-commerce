@@ -6,4 +6,4 @@
 	url = https://github.com/javc-nest-microservices/products-ms
 [submodule "orders-ms"]
 	path = orders-ms
-	url = https://github.com/javc-nest-microservices/products-ms
+	url = https://github.com/javc-nest-microservices/orders-ms
