@@ -41,3 +41,10 @@ git submodule update --remote
 > 
 > If you do it the other way around, you will lose the references of the submodules in the main repository and you will have to resolve conflicts.
 
+## Steps prod
+1. Clone the repository
+2. create .env file based on .env.template
+3. Run 
+```
+docker compose -f docker-compose.prod.yml build
+```
